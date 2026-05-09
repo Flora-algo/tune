@@ -63,10 +63,10 @@ Tune **完全不收集任何用户数据**。
 
 ## 开发者
 
-Tune 由 **伊维诺(杭州)科技有限公司 (innuno)** 开发。
+Tune 由 **algormula Pte. Ltd.** 开发。
 
 > *Imagination is the Limit. 万物之初,不过一念。*
 
 ---
 
-© 2026 innuno. All rights reserved.
+© 2026 algormula Pte. Ltd. All rights reserved.
